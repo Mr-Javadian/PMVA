@@ -1,4 +1,4 @@
-# Perfect Money® e-Voucher Activator
+#  Perfect Money® e-Voucher Activator
 
 # Description:
  This Python script allows you to validate a Perfect Money® e-Voucher using their API. It sends a request
