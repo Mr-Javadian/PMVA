@@ -1,3 +1,5 @@
+#Perfect Money® e-Voucher Activator
+
 # Description:
  This Python script allows you to validate a Perfect Money® e-Voucher using their API. It sends a request
  with your account details and the e-Voucher information to the Perfect Money server. The server responds
